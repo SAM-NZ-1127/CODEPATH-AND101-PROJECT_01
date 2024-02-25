@@ -6,7 +6,7 @@ Time spent: **X** hours spent in total
 
 ## Summary
 
-**Hello, Squirrel!** is an android app that recreates the common "Hello, World!", to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
+**Hello, Squirrel!** is an Android app that recreates the common "Hello, World!" to introduce ourselves to the neighborhood squirrel 🐿.  **Change or add to this description**
 
 If I had to describe this project in three (3) emojis, they would be: **😊, 💻, 🔍**
 
@@ -18,7 +18,7 @@ The following REQUIRED features are completed:
 
 - [X] Change profile name to your name
 - [X] Change profile bio text to a personal bio about yourself
-- [X] Modify hobby section to include your top three (3) hobbies
+- [X] Modify the hobby section to include your top three (3) hobbies
 
 The following STRETCH features are implemented:
 
@@ -33,7 +33,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://imgur.com/a/8J5kcIM' title='Project1' width='' alt='Video Demo' />
+<img src='https://imgur.com/uB9Hu3O' title='Project1' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif**
 
