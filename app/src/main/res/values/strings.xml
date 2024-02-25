@@ -7,7 +7,6 @@
 
     <string name="profile_bio_text"> Tech Enthusiast | Full Stack Web Developer |\n| UWM - MSCS | Codepath - Android101 | \n Summer 2024 Internships</string>
 
-    <string name="linkedin_profile_url">https://www.linkedin.com/in/shivam-mehta-1127nz27052000/</string>
     <string name="profile_hobby_header_text">My Hobbies:</string>
     <string name="profile_hobby_first_text">🥇   Reading 📖</string>
     <string name="profile_hobby_second_text">🥈  Movies and TV shows 🎥</string>
