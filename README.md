@@ -44,7 +44,7 @@ GIF created with **ScreenToGif**
 
 ## Notes
 
-Here's a place for any other notes on the app, its creation process, or what you learned in this unit!
+For me, the key learning points from this project include navigating an Android project, recognizing the areas where changes are to be implemented, and learning how to implement them. I satisfactorily enhanced the UI of my application and then created a new avatar by editing the existing avatar as my persona. I was also easily able to accomplish the primary required task of replacing the placeholder information with my personal information. I have also included my project run gif in the project files as a backup.
 
 ## License
 
